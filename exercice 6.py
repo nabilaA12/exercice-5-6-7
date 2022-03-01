@@ -1,6 +1,3 @@
-from re import T
-
-
 def moy_som(x,y,z,t):
     som=x+y+z+t
     moy =som/4 
